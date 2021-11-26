@@ -12,15 +12,15 @@
 
 **2021 September** – Get Audited by Security Partners.
 
-**2021 October** - Launch of WAP$WAP with Swapping, Cross Chain Swapping, Farming & Staking Facilities.
+**2021 November** - Launch of WAP$WAP with Swapping, Cross Chain Swapping, Farming & Staking Facilities.
 
-**2021 October** – Aggressive Marketing Campaign launch with Bounty Campaign on BitcoinTalk
+**2021 November** – Aggressive Marketing Campaign launch with Bounty Campaign on BitcoinTalk
 
-**2021 October** – Partnership Announcements with the Financial Institutions & other Defi projects of BSC.
+**2021 November** – Partnership Announcements with the Financial Institutions & other Defi projects of BSC.
 
-**2021 October** – Listing of decentralized exchanges like PancakeSwap. September 2021 - Locking the Liquidity on immediate basis after public sale.
+**2021 November** – Listing of decentralized exchanges like PancakeSwap. September 2021 - Locking the Liquidity on immediate basis after public sale.
 
-**2021 November** - New Liquidity pools will be added.
+**2021 December** - New Liquidity pools will be added.
 
 **2021 December** - New cross chain integrations for cross swapping.
 
