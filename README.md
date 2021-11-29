@@ -2,7 +2,7 @@
 
 ![](<.gitbook/assets/about wapswap (1).jpg>)
 
-**WAP$WAP is an Automated Market Marker on the Binance Smart Chain.** We offer liquidity pool model. Users add pairs of tokens to liquidity pools and earn transaction fees from others who swap their tokens using the pools. We have seen popularity due to the speed and low fees offered by the Binane Smart Chain. Our cryptocurrency is called $WAP. You can easily buy and sell it on DEX. You can also swap other tokens for $WAP using our swap and liquidity pools.
+**WAP$WAP is an Automated Market Maker on the Binance Smart Chain.** We offer liquidity pool model. Users add pairs of tokens to liquidity pools and earn transaction fees from others who swap their tokens using the pools. We have seen popularity due to the speed and low fees offered by the Binane Smart Chain. Our cryptocurrency is called $WAP. You can easily buy and sell it on DEX. You can also swap other tokens for $WAP using our swap and liquidity pools.
 
 WAP$WAP will potentially create entirely new financial markets, products, and services. An ecosystem of financial applications that is built on top of blockchain networks.
 
